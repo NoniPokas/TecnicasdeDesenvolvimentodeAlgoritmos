@@ -1,5 +1,0 @@
-# Tecnicas de Desenvolvimentos AlgoritmosUDF
-*Tecnicas de Desenvolvimento Algoritimos* da *UDF* do aluno *Pedro Henrique*.
-
-*Professor(a):* Kadidja  
-*Semestre:* 2025/02  
